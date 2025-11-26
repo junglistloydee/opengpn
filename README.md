@@ -1,3 +1,10 @@
+    ____                   ________  _   __
+  / __ \____  ___  ____  / ____/ __ \/ | / /
+ / / / / __ \/ _ \/ __ \/ / __/ /_/ /  |/ /
+/ /_/ / /_/ /  __/ / / / /_/ / ____/ /|  /
+\____/ .___/\___/_/ /_/\____/_/   /_/ |_/ 
+    /_/                                   
+Open Source Game Routing | Target: Taiwan
 # OpenGPN - A Custom Game VPN
 
 This project provides a simple, custom-built "Game VPN" (GPN) designed to route traffic for a specific game (e.g., Aion 2) through a relay server. This can help improve latency and bypass certain network restrictions.
